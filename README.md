@@ -59,8 +59,8 @@ I will be focusing on learning the fundamentals of html and css, so I will be ab
 
 ## Author
 
-- Website - [Nicolas Eiriz](https://www.your-site.com)
-- Frontend Mentor - [@NicolasEiriz](https://github.com/NicolasEiriz)
+- Website - [Nicolas Eiriz](https://nicolaseiriz.github.io/Profile-card-component-challenge-hub/)
+- Frontend Mentor - [@NicolasEiriz](https://www.frontendmentor.io/profile/NicolasEiriz)
 - Twitter - [@EirizNico](https://twitter.com/EirizNico)
 
 
